@@ -90,7 +90,7 @@ function(){
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
 		     
-		     Lenormand <i>et al.</i> (2018) <a href="https://" target=_blank>Multiscale socio-ecological networks in the age of information</a> <i>(in prep)</i>
+		     Lenormand <i>et al.</i> (2018) <a href="https://arxiv.org/abs/1805.00734" target=_blank>Multiscale socio-ecological networks in the age of information</a> <i>arXiv preprint</i> 1805.00734.
 		     
 		     </p>
 		  </div>  
