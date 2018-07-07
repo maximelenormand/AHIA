@@ -105,7 +105,7 @@ function(){
 		  <span style="color:#64645F;font-weight:bold;">Code</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
-		        Source code available at <a href="https://github.com/maximelenormand/AHIA" target=_blank>GitHub</a>
+		        Source code available at <a href="https://gitlab.com/maximelenormand/AHIA" target=_blank>GitLab</a>
 		     </p>
 		  </div> 
 
