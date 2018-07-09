@@ -98,14 +98,14 @@ function(){
 		  <span style="color:#64645F;font-weight: bold;">Author</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify">
-		        <a href="www.maximelenormand.com/" target=_blank>Maxime Lenormand</a>
+		        <a href="http://www.maximelenormand.com/" target=_blank>Maxime Lenormand</a>
 		     </p>
 		  </div>  
 
 		  <span style="color:#64645F;font-weight:bold;">Code</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
-		        Source code available <a href="www.maximelenormand.com/Codes" target=_blank>here</a>
+		        Source code available <a href="http://www.maximelenormand.com/Codes" target=_blank>here</a>
 		     </p>
 		  </div> 
 
