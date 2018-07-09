@@ -98,14 +98,14 @@ function(){
 		  <span style="color:#64645F;font-weight: bold;">Author</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify">
-		        <a href="https://maximelenormand.github.io/" target=_blank>Maxime Lenormand</a>
+		        <a href="https://maximelenormand.com/" target=_blank>Maxime Lenormand</a>
 		     </p>
 		  </div>  
 
 		  <span style="color:#64645F;font-weight:bold;">Code</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
-		        Source code available at <a href="https://gitlab.com/maximelenormand/AHIA" target=_blank>GitLab</a>
+		        Source code available <a href="https://maximelenormand.com/Codes" target=_blank>here</a>
 		     </p>
 		  </div> 
 
