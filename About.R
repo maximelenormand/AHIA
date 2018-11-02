@@ -90,7 +90,7 @@ function(){
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
 		     
-		     Lenormand <i>et al.</i> (2018) <a href="https://arxiv.org/abs/1805.00734" target=_blank>Multiscale socio-ecological networks in the age of information</a> <i>arXiv preprint</i> 1805.00734.
+		     Lenormand <i>et al.</i> (2018) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206672" target=_blank>Multiscale socio-ecological networks in the age of information.</a> <i>PLoS ONE</i> 13, e0206672.
 		     
 		     </p>
 		  </div>  
@@ -105,7 +105,7 @@ function(){
 		  <span style="color:#64645F;font-weight:bold;">Code</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
-		        Source code available <a href="http://www.maximelenormand.com/Codes" target=_blank>here</a>
+		        Source code available <a href="https://www.maximelenormand.com/Codes" target=_blank>here</a>
 		     </p>
 		  </div> 
 
