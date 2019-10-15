@@ -10,7 +10,7 @@ This interactive application focuses on the visualisation of several characteris
 
 ## Interactive web application
 
-This repository contains all the material (R scripts, Rdata and WWW data folder) needed to run [the app](https://maximelenormand.shinyapps.io/AHIA/). 
+This repository contains all the material (R scripts, Rdata and WWW data folder) needed to run [the app](http://shiny.umr-tetis.fr/AHIA/). 
 
 ## Citation
 
