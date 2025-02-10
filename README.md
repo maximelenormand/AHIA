@@ -33,7 +33,7 @@ interaction (local scale).
 
 ## Interactive Web Application
 
-This repository contains all the material (R scripts, Rdata, and WWW data folder) 
+This repository contains all the material (R scripts, Rdata, and www data folder) 
 needed to run [the app](https://ahia.sk8.inrae.fr).
 
 ## Citation
