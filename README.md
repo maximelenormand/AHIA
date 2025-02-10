@@ -31,7 +31,7 @@ characteristics of the network at different scales: spatial interactions
 (local scale), and the distribution of interactions according to the type of 
 interaction (local scale).
 
-## Interactive Web Application
+## Interactive web application
 
 This repository contains all the material (R scripts, Rdata, and www data folder) 
 needed to run [the app](https://ahia.sk8.inrae.fr).
@@ -46,7 +46,7 @@ If you need help, find a bug, want to give me advice or feedback, please
 contact me!  
 You can reach me at maxime.lenormand[at]inrae.fr
 
-## Repository Mirrors
+## Repository mirrors
 
 This repository is mirrored on both GitLab and GitHub. You can access it via the following links:
 
