@@ -4,7 +4,7 @@ function(){
 		HTML('
       
       <div style="display:inline;float:right;margin:0px 0px 5px 20px">
-        <img src="Logo.jpg" border="0" width="300" style="margin:0px">
+        <img src="images/Logo.jpg" border="0" width="300" style="margin:0px">
       </div>
 
       <div style="max-width:1000px; word-wrap:break-word;">
@@ -82,10 +82,8 @@ function(){
         </p>
       </div>  
 		
-      <hr width="1000", align="left" style="height:0.5px;border:none;color:#A0A5A8;background-color:#A0A5A8;" />
+      <hr width="1000" align="left" style="height:0.5px;border:none;color:#A0A5A8;background-color:#A0A5A8;" />
   
-		  
-
       <span style="color:#64645F;font-weight:bold;">Reference</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
@@ -105,7 +103,7 @@ function(){
 		  <span style="color:#64645F;font-weight:bold;">Code</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
-		        Source code available <a href="https://www.maximelenormand.com/Codes" target=_blank>here</a>
+		        Source code available <a href="https://gitlab.com/maximelenormand/AHIA" target=_blank>here</a>
 		     </p>
 		  </div> 
 
@@ -122,6 +120,11 @@ function(){
 		        A special thanks goes to <a href="https://github.com/chapinux" target=_blank>Chapinux</a> for his help on the 3D visualizations generated with the amazing <a href="https://github.com/minorua/Qgis2threejs" target=_blank>Qgis2threejs plugin</a>. 
 		     </p>
 		  </div> 
+		  
+      <span style="font-size:12px;">Powered by <a href="https://sk8.inrae.fr" target="_blank">SK8</a> since 2021 - </span>
+      <a href="https://sk8.inrae.fr" target="_blank">
+          <img style="vertical-align:middle;height:25px;" src="images/SK8.png"/>
+      </a>
 
 		'),
 		

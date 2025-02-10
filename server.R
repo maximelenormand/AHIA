@@ -1,7 +1,4 @@
 # Import libraries
-library(shiny)
-library(leaflet)
-library(rgdal)
 library(fmsb)
 library(scales)
 

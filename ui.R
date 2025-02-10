@@ -1,6 +1,4 @@
 # Import libraries
-library(shiny)
-library(leaflet)
 library(shinythemes)
 library(shinyjs)
 
@@ -11,18 +9,17 @@ tabPanelAbout=source("About.R")$value
 navbarPage(title=HTML('<span style="font-size:120%;color:white;font-weight:bold;">Multiscale socio-ecological interactions&nbsp;&nbsp;</span></a>'),
            #strong("Multi-scale socio-ecological interactions"), 
            theme = shinytheme("cerulean"),
-           windowTitle = "AHIA App",
+           windowTitle = "AHIA",
            header = "",
 
   ##### Network #####################################################################################
-  
   tabPanel(strong("Network"),
     div(class="outer",     
       
       # Include custom CSS & logo   
       tags$head(
         includeCSS("styles.css"),
-        tags$link(rel = "icon", type = "image/png", href = "Logo.jpg")
+        tags$link(rel = "icon", type = "image/png", href = "images/Logo.jpg")
       ),
       
       # Map
@@ -70,9 +67,13 @@ navbarPage(title=HTML('<span style="font-size:120%;color:white;font-weight:bold;
                     tags$style(type='text/css', "#default_values_net {width:130px;float:right;}")
                    
                     
+      ),
+      
+      # SK8 footer
+      div(
+        class="footer",
+        includeHTML("footer.html")
       )
-      
-      
       
   )),
   
@@ -157,6 +158,11 @@ navbarPage(title=HTML('<span style="font-size:120%;color:white;font-weight:bold;
                     actionButton("tdexplorer", "3D EXPLORER"),
                     tags$style(type='text/css', "#tdexplorer {width:285px;text-align:center;}")
                     
+      ),
+      
+      div(
+        class="footer",
+        includeHTML("footer.html")
       )
       
   )),
@@ -213,6 +219,11 @@ navbarPage(title=HTML('<span style="font-size:120%;color:white;font-weight:bold;
                                      selected=1)
 
                          
+           ),
+           
+           div(
+             class="footer",
+             includeHTML("footer.html")
            )         
            
   ),
@@ -259,6 +270,11 @@ navbarPage(title=HTML('<span style="font-size:120%;color:white;font-weight:bold;
                                      selected=1)
 
 
+           ),
+           
+           div(
+             class="footer",
+             includeHTML("footer.html")
            )
 
   ),
