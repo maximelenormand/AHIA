@@ -1,5 +1,4 @@
-Visualizing multiscale socio-ecological interactions using Flickr data
-================================================================================
+# Visualizing multiscale socio-ecological interactions using Flickr data
 
 ## Description
 
@@ -50,8 +49,8 @@ You can reach me at maxime.lenormand[at]inrae.fr
 
 This repository is mirrored on both GitLab and GitHub. You can access it via the following links:
 
-GitHub: https://github.com/maximelenormand/AHIA  
-GitLab: https://gitlab.com/maximelenormand/AHIA
+- **GitLab**: [https://gitlab.com/maximelenormand/AHIA](https://gitlab.com/maximelenormand/AHIA)  
+- **GitHub**: [https://github.com/maximelenormand/AHIA](https://github.com/maximelenormand/AHIA)  
 
 The repository is archived in Software Heritage:
 
