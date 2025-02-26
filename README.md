@@ -40,7 +40,7 @@ needed to run [the app](https://ahia.sk8.inrae.fr).
 If you use this code, please cite:
 
 Lenormand M *et al.* (2018) [Multiscale socio-ecological networks in the age of information.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206672) 
-*PLoS ONE* 13, e0206672.
+*PLOS ONE* 13, e0206672.
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
 
