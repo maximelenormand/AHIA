@@ -35,9 +35,9 @@ interaction (local scale).
 This repository contains all the material (R scripts, Rdata, and www data folder) 
 needed to run [the app](https://ahia.sk8.inrae.fr).
 
-## Citation
+## Reference and citation
 
-If you use this code, please cite:
+If you use this code, please cite the following reference:
 
 Lenormand M *et al.* (2018) [Multiscale socio-ecological networks in the age of information.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206672) 
 *PLOS ONE* 13, e0206672.
